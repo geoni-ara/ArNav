@@ -814,6 +814,7 @@ MonoBehaviour:
   - {fileID: 3954196444821111266}
   - {fileID: 2080232301922859859}
   - {fileID: -7522698746978362257}
+  - {fileID: 6413963643553168290}
   - {fileID: 5055836345278578805}
   - {fileID: -433152954916785366}
   - {fileID: -2814114240473751189}
@@ -1146,12 +1147,12 @@ MonoBehaviour:
   m_Name: MockInteractionFeature Android
   m_EditorClassIdentifier: 
   m_enabled: 0
-  nameUi: 
-  version: 
-  featureIdInternal: 
+  nameUi: Mock Interaction Feature
+  version: 0.0.1
+  featureIdInternal: com.unity.openxr.feature.input.mockinteraction
   openxrExtensionStrings: 
-  company: 
-  priority: 0
+  company: Unity
+  priority: -2147483648
   required: 0
 --- !u!114 &6485972397283890930
 MonoBehaviour:
